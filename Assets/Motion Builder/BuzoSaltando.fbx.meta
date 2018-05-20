@@ -1,0 +1,1321 @@
+fileFormatVersion: 2
+guid: 7d45d72e269eefb479e02f8df17ae065
+timeCreated: 1526591005
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Aragor:Aragor_body
+    100002: Aragor:Aragor_L_Eye
+    100004: Aragor:Aragor_R_Eye
+    100006: Aragor:Cube 1
+    100008: Aragor:Cube 2
+    100010: Aragor:Cube 3
+    100012: Aragor:Cube 4
+    100014: Aragor:Gun_Aragor
+    100016: Aragor:Head
+    100018: Aragor:Head_Aragor
+    100020: Aragor:Head_End
+    100022: Aragor:Hips
+    100024: Aragor:Knee_protec_L
+    100026: Aragor:Knee_protec_R
+    100028: Aragor:LeftArm
+    100030: Aragor:LeftArm_Dummy
+    100032: Aragor:LeftArmRoll
+    100034: Aragor:LeftFoot
+    100036: Aragor:LeftForeArm
+    100038: Aragor:LeftForeArmRoll
+    100040: Aragor:LeftHand
+    100042: Aragor:LeftHandIndex1
+    100044: Aragor:LeftHandIndex2
+    100046: Aragor:LeftHandIndex3
+    100048: Aragor:LeftHandIndex4
+    100050: Aragor:LeftHandMiddle1
+    100052: Aragor:LeftHandMiddle2
+    100054: Aragor:LeftHandMiddle3
+    100056: Aragor:LeftHandMiddle4
+    100058: Aragor:LeftHandPinky1
+    100060: Aragor:LeftHandPinky2
+    100062: Aragor:LeftHandPinky3
+    100064: Aragor:LeftHandPinky4
+    100066: Aragor:LeftHandRing1
+    100068: Aragor:LeftHandRing2
+    100070: Aragor:LeftHandRing3
+    100072: Aragor:LeftHandRing4
+    100074: Aragor:LeftHandThumb1
+    100076: Aragor:LeftHandThumb2
+    100078: Aragor:LeftHandThumb3
+    100080: Aragor:LeftHandThumb4
+    100082: Aragor:LeftHips_Dummy
+    100084: Aragor:LeftLeg
+    100086: Aragor:LeftLegRoll
+    100088: Aragor:LeftShoulder
+    100090: Aragor:LeftShoulder_Dummy
+    100092: Aragor:LeftToeBase
+    100094: Aragor:LeftToes_End
+    100096: Aragor:LeftUpLeg
+    100098: Aragor:LeftUpLegRoll
+    100100: Aragor:Mask
+    100102: Aragor:Neck
+    100104: Aragor:pCylinder10
+    100106: Aragor:pCylinder2
+    100108: Aragor:pCylinder3
+    100110: Aragor:pCylinder4
+    100112: Aragor:pCylinder5
+    100114: Aragor:pCylinder6
+    100116: Aragor:pCylinder7
+    100118: Aragor:pCylinder8
+    100120: Aragor:pCylinder9
+    100122: Aragor:Reference
+    100124: Aragor:RightArm
+    100126: Aragor:RightArm_Dummy
+    100128: Aragor:RightArmRoll
+    100130: Aragor:RightFoot
+    100132: Aragor:RightForeArm
+    100134: Aragor:RightForeArmRoll
+    100136: Aragor:RightHand
+    100138: Aragor:RightHandIndex1
+    100140: Aragor:RightHandIndex2
+    100142: Aragor:RightHandIndex3
+    100144: Aragor:RightHandIndex4
+    100146: Aragor:RightHandMiddle1
+    100148: Aragor:RightHandMiddle2
+    100150: Aragor:RightHandMiddle3
+    100152: Aragor:RightHandMiddle4
+    100154: Aragor:RightHandPinky1
+    100156: Aragor:RightHandPinky2
+    100158: Aragor:RightHandPinky3
+    100160: Aragor:RightHandPinky4
+    100162: Aragor:RightHandRing1
+    100164: Aragor:RightHandRing2
+    100166: Aragor:RightHandRing3
+    100168: Aragor:RightHandRing4
+    100170: Aragor:RightHandThumb1
+    100172: Aragor:RightHandThumb2
+    100174: Aragor:RightHandThumb3
+    100176: Aragor:RightHandThumb4
+    100178: Aragor:RightHips_Dummy
+    100180: Aragor:RightLeg
+    100182: Aragor:RightLegRoll
+    100184: Aragor:RightShoulder
+    100186: Aragor:RightShoulder_Dummy
+    100188: Aragor:RightToeBase
+    100190: Aragor:RightToes_End
+    100192: Aragor:RightUpLeg
+    100194: Aragor:RightUpLegRoll
+    100196: Aragor:Spine
+    100198: Aragor:Spine1
+    100200: Aragor:Spine2
+    100202: Aragor:Spine_Dummy
+    100204: //RootNode
+    400000: Aragor:Aragor_body
+    400002: Aragor:Aragor_L_Eye
+    400004: Aragor:Aragor_R_Eye
+    400006: Aragor:Cube 1
+    400008: Aragor:Cube 2
+    400010: Aragor:Cube 3
+    400012: Aragor:Cube 4
+    400014: Aragor:Gun_Aragor
+    400016: Aragor:Head
+    400018: Aragor:Head_Aragor
+    400020: Aragor:Head_End
+    400022: Aragor:Hips
+    400024: Aragor:Knee_protec_L
+    400026: Aragor:Knee_protec_R
+    400028: Aragor:LeftArm
+    400030: Aragor:LeftArm_Dummy
+    400032: Aragor:LeftArmRoll
+    400034: Aragor:LeftFoot
+    400036: Aragor:LeftForeArm
+    400038: Aragor:LeftForeArmRoll
+    400040: Aragor:LeftHand
+    400042: Aragor:LeftHandIndex1
+    400044: Aragor:LeftHandIndex2
+    400046: Aragor:LeftHandIndex3
+    400048: Aragor:LeftHandIndex4
+    400050: Aragor:LeftHandMiddle1
+    400052: Aragor:LeftHandMiddle2
+    400054: Aragor:LeftHandMiddle3
+    400056: Aragor:LeftHandMiddle4
+    400058: Aragor:LeftHandPinky1
+    400060: Aragor:LeftHandPinky2
+    400062: Aragor:LeftHandPinky3
+    400064: Aragor:LeftHandPinky4
+    400066: Aragor:LeftHandRing1
+    400068: Aragor:LeftHandRing2
+    400070: Aragor:LeftHandRing3
+    400072: Aragor:LeftHandRing4
+    400074: Aragor:LeftHandThumb1
+    400076: Aragor:LeftHandThumb2
+    400078: Aragor:LeftHandThumb3
+    400080: Aragor:LeftHandThumb4
+    400082: Aragor:LeftHips_Dummy
+    400084: Aragor:LeftLeg
+    400086: Aragor:LeftLegRoll
+    400088: Aragor:LeftShoulder
+    400090: Aragor:LeftShoulder_Dummy
+    400092: Aragor:LeftToeBase
+    400094: Aragor:LeftToes_End
+    400096: Aragor:LeftUpLeg
+    400098: Aragor:LeftUpLegRoll
+    400100: Aragor:Mask
+    400102: Aragor:Neck
+    400104: Aragor:pCylinder10
+    400106: Aragor:pCylinder2
+    400108: Aragor:pCylinder3
+    400110: Aragor:pCylinder4
+    400112: Aragor:pCylinder5
+    400114: Aragor:pCylinder6
+    400116: Aragor:pCylinder7
+    400118: Aragor:pCylinder8
+    400120: Aragor:pCylinder9
+    400122: Aragor:Reference
+    400124: Aragor:RightArm
+    400126: Aragor:RightArm_Dummy
+    400128: Aragor:RightArmRoll
+    400130: Aragor:RightFoot
+    400132: Aragor:RightForeArm
+    400134: Aragor:RightForeArmRoll
+    400136: Aragor:RightHand
+    400138: Aragor:RightHandIndex1
+    400140: Aragor:RightHandIndex2
+    400142: Aragor:RightHandIndex3
+    400144: Aragor:RightHandIndex4
+    400146: Aragor:RightHandMiddle1
+    400148: Aragor:RightHandMiddle2
+    400150: Aragor:RightHandMiddle3
+    400152: Aragor:RightHandMiddle4
+    400154: Aragor:RightHandPinky1
+    400156: Aragor:RightHandPinky2
+    400158: Aragor:RightHandPinky3
+    400160: Aragor:RightHandPinky4
+    400162: Aragor:RightHandRing1
+    400164: Aragor:RightHandRing2
+    400166: Aragor:RightHandRing3
+    400168: Aragor:RightHandRing4
+    400170: Aragor:RightHandThumb1
+    400172: Aragor:RightHandThumb2
+    400174: Aragor:RightHandThumb3
+    400176: Aragor:RightHandThumb4
+    400178: Aragor:RightHips_Dummy
+    400180: Aragor:RightLeg
+    400182: Aragor:RightLegRoll
+    400184: Aragor:RightShoulder
+    400186: Aragor:RightShoulder_Dummy
+    400188: Aragor:RightToeBase
+    400190: Aragor:RightToes_End
+    400192: Aragor:RightUpLeg
+    400194: Aragor:RightUpLegRoll
+    400196: Aragor:Spine
+    400198: Aragor:Spine1
+    400200: Aragor:Spine2
+    400202: Aragor:Spine_Dummy
+    400204: //RootNode
+    2100000: Aragor_Mat_Aragor Body
+    2100002: Aragor_Gun_AragorSG
+    2100004: Aragor_Material 1
+    2100006: Aragor_initialShadingGroup
+    2100008: No Name
+    2100010: Aragor_Material
+    2100012: Aragor_Material 2
+    2100014: Aragor_Mat_Aragor head
+    2300000: Aragor:Aragor_L_Eye
+    2300002: Aragor:Aragor_R_Eye
+    2300004: Aragor:Cube 1
+    2300006: Aragor:Cube 2
+    2300008: Aragor:Cube 3
+    2300010: Aragor:Cube 4
+    2300012: Aragor:Gun_Aragor
+    2300014: Aragor:Knee_protec_L
+    2300016: Aragor:Knee_protec_R
+    2300018: Aragor:Mask
+    2300020: Aragor:pCylinder10
+    2300022: Aragor:pCylinder2
+    2300024: Aragor:pCylinder3
+    2300026: Aragor:pCylinder4
+    2300028: Aragor:pCylinder5
+    2300030: Aragor:pCylinder6
+    2300032: Aragor:pCylinder7
+    2300034: Aragor:pCylinder8
+    2300036: Aragor:pCylinder9
+    3300000: Aragor:Aragor_L_Eye
+    3300002: Aragor:Aragor_R_Eye
+    3300004: Aragor:Cube 1
+    3300006: Aragor:Cube 2
+    3300008: Aragor:Cube 3
+    3300010: Aragor:Cube 4
+    3300012: Aragor:Gun_Aragor
+    3300014: Aragor:Knee_protec_L
+    3300016: Aragor:Knee_protec_R
+    3300018: Aragor:Mask
+    3300020: Aragor:pCylinder10
+    3300022: Aragor:pCylinder2
+    3300024: Aragor:pCylinder3
+    3300026: Aragor:pCylinder4
+    3300028: Aragor:pCylinder5
+    3300030: Aragor:pCylinder6
+    3300032: Aragor:pCylinder7
+    3300034: Aragor:pCylinder8
+    3300036: Aragor:pCylinder9
+    4300000: Aragor:Knee_protec_L
+    4300002: Aragor:Aragor_L_Eye
+    4300004: Aragor:Mask
+    4300006: Aragor:Aragor_R_Eye
+    4300008: Aragor:Gun_Aragor
+    4300010: Aragor:pCylinder9
+    4300012: Aragor:pCylinder2
+    4300014: Aragor:pCylinder3
+    4300016: Aragor:pCylinder4
+    4300018: Aragor:pCylinder5
+    4300020: Aragor:pCylinder6
+    4300022: Aragor:pCylinder7
+    4300024: Aragor:pCylinder8
+    4300026: Aragor:pCylinder10
+    4300028: Aragor:Cube 1
+    4300030: Aragor:Cube 2
+    4300032: Aragor:Cube 3
+    4300034: Aragor:Cube 4
+    4300036: Aragor:Knee_protec_R
+    4300038: Aragor:Aragor_body
+    4300040: Aragor:Head_Aragor
+    7400000: Take 003
+    9500000: //RootNode
+    13700000: Aragor:Aragor_body
+    13700002: Aragor:Head_Aragor
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Aragor:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:Aragor_L_Eye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:Aragor_R_Eye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Aragor:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: BuzoSaltando(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:Aragor_body
+      parentName: BuzoSaltando(Clone)
+      position: {x: -0.020256426, y: 0.054074984, z: 1.9656276}
+      rotation: {x: -0.00030038512, y: 0.0026399947, z: -0.00018015542, w: 0.9999965}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:Head_Aragor
+      parentName: BuzoSaltando(Clone)
+      position: {x: -0.000081649996, y: 0.10384221, z: 4.014304}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:Reference
+      parentName: BuzoSaltando(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.16630952, y: 0.16630952, z: 0.16630952}
+    - name: Aragor:Hips
+      parentName: Aragor:Reference
+      position: {x: 0.00038491713, y: 0.12974611, z: 5.592084}
+      rotation: {x: -0.00000008940697, y: -0.000001246558, z: 0.00000041726577, w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000004}
+    - name: Aragor:LeftHips_Dummy
+      parentName: Aragor:Hips
+      position: {x: -0.50547034, y: -0.13007973, z: -0.06758529}
+      rotation: {x: 0.0034941002, y: -0.70654285, z: -0.0034985968, w: 0.707653}
+      scale: {x: 0.999998, y: 0.999998, z: 0.999998}
+    - name: Aragor:LeftUpLeg
+      parentName: Aragor:LeftHips_Dummy
+      position: {x: -0.0000000032610046, y: -0.000000010300362, z: 0.3}
+      rotation: {x: -0.00000009872021, y: 0.0000010132791, z: 0.000008660602, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 0.9999992}
+    - name: Aragor:LeftUpLegRoll
+      parentName: Aragor:LeftUpLeg
+      position: {x: -1.1251055, y: 0.000000105020824, z: 0.00000014595788}
+      rotation: {x: 0.00000008940697, y: 0.000000029802322, z: -0.000000044703484,
+        w: 1}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1}
+    - name: Aragor:LeftLeg
+      parentName: Aragor:LeftUpLegRoll
+      position: {x: -1.2902086, y: -0.000000010000118, z: 0.00000062}
+      rotation: {x: -0.0000003874302, y: -0, z: -0.04176107, w: 0.9991277}
+      scale: {x: 1.0000004, y: 1, z: 1.0000002}
+    - name: Aragor:Knee_protec_L
+      parentName: Aragor:LeftLeg
+      position: {x: -0.12194052, y: 0.01836288, z: -0.01515562}
+      rotation: {x: -0.032985214, y: 0.7057768, z: 0.033037346, w: 0.70689434}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:LeftLegRoll
+      parentName: Aragor:LeftLeg
+      position: {x: -1.8340043, y: 0.000000048382947, z: -0.00000009262418}
+      rotation: {x: -0.00000011910531, y: -0.0000000049782947, z: -0.000000029802319,
+        w: 1}
+      scale: {x: 0.99999964, y: 0.9999993, z: 0.99999994}
+    - name: Aragor:LeftFoot
+      parentName: Aragor:LeftLegRoll
+      position: {x: -0.71066266, y: 0.00000004836225, z: 0.00000011588837}
+      rotation: {x: -0.0132482955, y: -0.032287747, z: -0.46396855, w: -0.8851639}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: Aragor:LeftToeBase
+      parentName: Aragor:LeftFoot
+      position: {x: -0.6473969, y: -0.00000002999974, z: -0.00000010999995}
+      rotation: {x: 0.00000004284084, y: -0.000000014901161, z: 0.30482087, w: 0.95240974}
+      scale: {x: 1.0000005, y: 1.0000008, z: 0.99999994}
+    - name: Aragor:LeftToes_End
+      parentName: Aragor:LeftToeBase
+      position: {x: -0.56363636, y: 0.00000002, z: 0.000000109999995}
+      rotation: {x: 0, y: 0, z: -0.000000034906584, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:RightHips_Dummy
+      parentName: Aragor:Hips
+      position: {x: 0.504701, y: -0.13007973, z: -0.06758529}
+      rotation: {x: 0.0042851022, y: -0.70764804, z: -0.0027087294, w: 0.7065469}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:RightUpLeg
+      parentName: Aragor:RightHips_Dummy
+      position: {x: -0.000000002695449, y: -0.000000004069992, z: -0.29999945}
+      rotation: {x: 0.000000031432133, y: 0.00000041723246, z: -0.0000005108304, w: 1}
+      scale: {x: 1.0000006, y: 1.0000013, z: 1.0000001}
+    - name: Aragor:RightUpLegRoll
+      parentName: Aragor:RightUpLeg
+      position: {x: -1.1251016, y: -0.000000073684355, z: -0.0000002342388}
+      rotation: {x: 0.00000008940697, y: 0.000000029802322, z: 0.00000008940697, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+    - name: Aragor:RightLeg
+      parentName: Aragor:RightUpLegRoll
+      position: {x: -1.2902054, y: -3.9790393e-15, z: -0.00000066}
+      rotation: {x: -0.0000004172325, y: -0.000000029802322, z: -0.04174325, w: 0.9991284}
+      scale: {x: 0.9999998, y: 0.9999999, z: 1.0000001}
+    - name: Aragor:Knee_protec_R
+      parentName: Aragor:RightLeg
+      position: {x: -0.12188136, y: 0.01772145, z: 0.014651679}
+      rotation: {x: -0.03382686, y: 0.70685536, z: 0.03219199, w: 0.7058151}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:RightLegRoll
+      parentName: Aragor:RightLeg
+      position: {x: -1.8340005, y: -0.000000035458285, z: -0.000000085084885}
+      rotation: {x: -0.00000008932903, y: -0.000000003732136, z: 0.0000000037252774,
+        w: 1}
+      scale: {x: 1, y: 1, z: 0.9999998}
+    - name: Aragor:RightFoot
+      parentName: Aragor:RightLegRoll
+      position: {x: -0.71066076, y: 0.00000009293623, z: -0.00000012714479}
+      rotation: {x: -0.013247756, y: -0.032286454, z: 0.4640298, w: 0.88513184}
+      scale: {x: 1.0000012, y: 1.0000019, z: 1.0000006}
+    - name: Aragor:RightToeBase
+      parentName: Aragor:RightFoot
+      position: {x: -0.647395, y: 0.00000008000001, z: 0.00000016999996}
+      rotation: {x: 0.00000006053597, y: 0.000000027939677, z: 0.30482078, w: 0.9524098}
+      scale: {x: 1, y: 1.0000007, z: 1}
+    - name: Aragor:RightToes_End
+      parentName: Aragor:RightToeBase
+      position: {x: -0.5636349, y: 0.00000021, z: 0.00000016}
+      rotation: {x: 0.000000008726646, y: -2.2846308e-16, z: -0.00000002617994, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:Spine_Dummy
+      parentName: Aragor:Hips
+      position: {x: -0.011817389, y: 0.03195537, z: 0.18114574}
+      rotation: {x: -0.7070972, y: -0.003708729, z: 0.70709723, w: 0.0036684352}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:Spine
+      parentName: Aragor:Spine_Dummy
+      position: {x: -0.7339999, y: 0.000000020703832, z: -8.5964497e-10}
+      rotation: {x: 0.00000017858109, y: 0.000002683211, z: 0.00000015459953, w: 1}
+      scale: {x: 1.000001, y: 1.0000015, z: 1.0000005}
+    - name: Aragor:Spine1
+      parentName: Aragor:Spine
+      position: {x: -0.70001316, y: 0.00000002, z: 4.796163e-16}
+      rotation: {x: -0.0000036552078, y: 0.0000018883286, z: 0.00000010499647, w: 1}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000001}
+    - name: Aragor:Spine2
+      parentName: Aragor:Spine1
+      position: {x: -0.7140002, y: -0.000000020000002, z: 2.717826e-15}
+      rotation: {x: 0.00000017881392, y: 0.0000019073484, z: 0.000000059604638, w: 1}
+      scale: {x: 1.0000017, y: 1.0000012, z: 1.0000019}
+    - name: Aragor:LeftShoulder_Dummy
+      parentName: Aragor:Spine2
+      position: {x: -0.65589666, y: 0.02530522, z: 0.21279636}
+      rotation: {x: 0.06781385, y: 0.6558433, z: 0.74701023, w: -0.08512749}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:LeftShoulder
+      parentName: Aragor:LeftShoulder_Dummy
+      position: {x: 0.3684506, y: -0.00000013968734, z: -0.0000000276766}
+      rotation: {x: 0.00037138624, y: 0.020778062, z: 0.00015773995, w: -0.9997841}
+      scale: {x: 1.0000015, y: 1.0000018, z: 1.0000002}
+    - name: Aragor:LeftArm_Dummy
+      parentName: Aragor:LeftShoulder
+      position: {x: 0.01776783, y: 0.7979454, z: -0.00325002}
+      rotation: {x: 0.38043815, y: 0.55975634, z: 0.64729327, w: 0.35064378}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:LeftArm
+      parentName: Aragor:LeftArm_Dummy
+      position: {x: 0.1976221, y: -0.017592272, z: 0.103784084}
+      rotation: {x: 0.34306145, y: 0.020258538, z: -0.9385332, w: -0.03246497}
+      scale: {x: 1.0000019, y: 1.0000021, z: 1.0000007}
+    - name: Aragor:LeftArmRoll
+      parentName: Aragor:LeftArm
+      position: {x: -1.0290802, y: 0.00000025260002, z: -0.00000038771307}
+      rotation: {x: -0.012368662, y: -0.000000205473, z: -0.00000013411042, w: 0.9999235}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000005}
+    - name: Aragor:LeftForeArm
+      parentName: Aragor:LeftArmRoll
+      position: {x: -0.84979194, y: 0.00000016008524, z: -0.000000030005673}
+      rotation: {x: 0.019439956, y: 0.0013885446, z: 0.07123493, w: 0.9972692}
+      scale: {x: 0.99999994, y: 1.0000006, z: 1.0000005}
+    - name: Aragor:LeftForeArmRoll
+      parentName: Aragor:LeftForeArm
+      position: {x: -0.9340418, y: 0.0000001706128, z: -0.000000018847498}
+      rotation: {x: 0.029232167, y: -0.00000029779025, z: 0.00000006041225, w: 0.9995727}
+      scale: {x: 1.0000006, y: 1.0000007, z: 1.0000008}
+    - name: Aragor:LeftHand
+      parentName: Aragor:LeftForeArmRoll
+      position: {x: -0.716919, y: 0.00000006929665, z: -0.00000037163986}
+      rotation: {x: -0.0056060683, y: -0.0135969175, z: 0.0028891186, w: 0.99988776}
+      scale: {x: 1.0000007, y: 1.0000001, z: 1.0000005}
+    - name: Aragor:LeftHandThumb1
+      parentName: Aragor:LeftHand
+      position: {x: -0.19840793, y: -0.29145122, z: -0.14760084}
+      rotation: {x: 0.3120327, y: 0.09273231, z: 0.36572227, w: 0.8719424}
+      scale: {x: 1.0000011, y: 1.0000007, z: 1.0000006}
+    - name: Aragor:LeftHandThumb2
+      parentName: Aragor:LeftHandThumb1
+      position: {x: -0.12647235, y: -0.0027801201, z: 0.0045126}
+      rotation: {x: 0.1623486, y: 0.0023059368, z: -0.025987234, w: 0.9863885}
+      scale: {x: 1.0000006, y: 1.0000007, z: 1.0000007}
+    - name: Aragor:LeftHandThumb3
+      parentName: Aragor:LeftHandThumb2
+      position: {x: -0.30062956, y: -0.0058084405, z: -0.0072814897}
+      rotation: {x: 0.17549975, y: -0.0357704, z: 0.0007562452, w: 0.98382914}
+      scale: {x: 1.0000008, y: 1.0000006, z: 1}
+    - name: Aragor:LeftHandThumb4
+      parentName: Aragor:LeftHandThumb3
+      position: {x: -0.10098594, y: 0.00011674999, z: -0.0014285197}
+      rotation: {x: 0.000000007204938, y: -0.0000000017898419, z: 3.3389005e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:LeftHandMiddle1
+      parentName: Aragor:LeftHand
+      position: {x: -0.58363086, y: -0.0053187776, z: 0.038689822}
+      rotation: {x: 0.69625616, y: -0.018906113, z: 0.008782913, w: 0.7174907}
+      scale: {x: 1.000001, y: 1.0000005, z: 1.0000013}
+    - name: Aragor:LeftHandMiddle2
+      parentName: Aragor:LeftHandMiddle1
+      position: {x: -0.2331125, y: -0.000000530021, z: -0.00000013027257}
+      rotation: {x: 0.000002831219, y: 0.000033657045, z: 0.00055371283, w: 0.9999999}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1.0000005}
+    - name: Aragor:LeftHandMiddle3
+      parentName: Aragor:LeftHandMiddle2
+      position: {x: -0.17585509, y: -7.360995e-11, z: -0.000000020941425}
+      rotation: {x: -0.0065645007, y: -0.0021479265, z: -0.039404087, w: 0.99919945}
+      scale: {x: 1.0000006, y: 1, z: 1.0000001}
+    - name: Aragor:LeftHandMiddle4
+      parentName: Aragor:LeftHandMiddle3
+      position: {x: -0.09343828, y: -3.7107383e-12, z: -0.000000050045642}
+      rotation: {x: 2.7755576e-17, y: -1.3877788e-17, z: 2.0816682e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:LeftHandPinky1
+      parentName: Aragor:LeftHand
+      position: {x: -0.5198534, y: 0.3056586, z: -0.09812605}
+      rotation: {x: 0.6512626, y: -0.015516698, z: -0.0053606974, w: 0.75867486}
+      scale: {x: 1.0000008, y: 1.0000005, z: 1.0000006}
+    - name: Aragor:LeftHandPinky2
+      parentName: Aragor:LeftHandPinky1
+      position: {x: -0.15971807, y: 0.0000016000083, z: -0.0000001401868}
+      rotation: {x: 0.00018486373, y: -0.00031641204, z: 0.0050318027, w: 0.99998724}
+      scale: {x: 1.0000007, y: 1.0000015, z: 1.0000005}
+    - name: Aragor:LeftHandPinky3
+      parentName: Aragor:LeftHandPinky2
+      position: {x: -0.12550378, y: -0.00000077997123, z: 0.00000003932647}
+      rotation: {x: -0.0016859062, y: 0.002656145, z: -0.041374646, w: 0.9991388}
+      scale: {x: 0.9999998, y: 1.0000001, z: 0.99999994}
+    - name: Aragor:LeftHandPinky4
+      parentName: Aragor:LeftHandPinky3
+      position: {x: -0.0996233, y: -0.000000029998862, z: -0.0000000200526}
+      rotation: {x: 0.000000015535807, y: 0.000000005344601, z: 0.000000025317618,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:LeftHandRing1
+      parentName: Aragor:LeftHand
+      position: {x: -0.5892941, y: 0.15693578, z: -0.0075701145}
+      rotation: {x: 0.68379396, y: -0.012509703, z: 0.0036326577, w: 0.72955894}
+      scale: {x: 1.000001, y: 1.0000008, z: 1.0000011}
+    - name: Aragor:LeftHandRing2
+      parentName: Aragor:LeftHandRing1
+      position: {x: -0.19824821, y: -0.00000006000911, z: -0.000000010231108}
+      rotation: {x: 0.00000050663925, y: 0.000012246886, z: 0.00048442627, w: 0.9999999}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000005}
+    - name: Aragor:LeftHandRing3
+      parentName: Aragor:LeftHandRing2
+      position: {x: -0.15903646, y: -0.00000018003456, z: 0.000000009150972}
+      rotation: {x: -0.0060364823, y: -0.0007737177, z: -0.040264912, w: 0.9991705}
+      scale: {x: 1.0000006, y: 1.0000002, z: 1.0000006}
+    - name: Aragor:LeftHandRing4
+      parentName: Aragor:LeftHandRing3
+      position: {x: -0.099930495, y: 0.00000045999775, z: 0.000000059951354}
+      rotation: {x: -0.0000000023314066, y: -0.0000000027257498, z: 9.881965e-10,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:LeftHandIndex1
+      parentName: Aragor:LeftHand
+      position: {x: -0.6114075, y: -0.18507846, z: 0.01425632}
+      rotation: {x: 0.7166039, y: -0.0070726476, z: -0.0018771687, w: 0.697442}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000007}
+    - name: Aragor:LeftHandIndex2
+      parentName: Aragor:LeftHandIndex1
+      position: {x: -0.19152947, y: 0.00000007997135, z: 0.00000002977939}
+      rotation: {x: 0.0000047385665, y: 0.00004728508, z: 0.0003988978, w: 1}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1.0000004}
+    - name: Aragor:LeftHandIndex3
+      parentName: Aragor:LeftHandIndex2
+      position: {x: -0.15405674, y: -0.0000005601065, z: -0.00000012081266}
+      rotation: {x: -0.0078076217, y: -0.004260388, z: -0.039253574, w: 0.99918973}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999964}
+    - name: Aragor:LeftHandIndex4
+      parentName: Aragor:LeftHandIndex3
+      position: {x: -0.08920016, y: -0.000000030005445, z: -0.000000110041874}
+      rotation: {x: -0.000000021028594, y: 0.000000023137893, z: -0.0000000096687485,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:RightShoulder_Dummy
+      parentName: Aragor:Spine2
+      position: {x: -0.65589666, y: 0.02531559, z: -0.21708469}
+      rotation: {x: -0.067815706, y: -0.65586174, z: 0.746994, w: -0.08512568}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:RightShoulder
+      parentName: Aragor:RightShoulder_Dummy
+      position: {x: 0.3684499, y: -0.00000003843543, z: 0.000000008321034}
+      rotation: {x: 0.0012850743, y: 0.06596059, z: -0.0006414687, w: 0.99782115}
+      scale: {x: 1.0000015, y: 1.0000023, z: 1.000003}
+    - name: Aragor:RightArm_Dummy
+      parentName: Aragor:RightShoulder
+      position: {x: 0.016812779, y: 0.8196968, z: 0.00310575}
+      rotation: {x: -0.3804439, y: -0.55973727, z: 0.64731014, w: 0.35063693}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:RightArm
+      parentName: Aragor:RightArm_Dummy
+      position: {x: 0.2084304, y: -0.017093567, z: -0.11313731}
+      rotation: {x: -0.34532377, y: -0.040380325, z: -0.9368881, w: -0.036901888}
+      scale: {x: 1.0000015, y: 0.999999, z: 1.0000006}
+    - name: Aragor:RightArmRoll
+      parentName: Aragor:RightArm
+      position: {x: -1.0218004, y: 0.00000015522362, z: 0.0000004316414}
+      rotation: {x: 0.039205987, y: 0.0000003628083, z: 0.00000006891786, w: 0.9992312}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+    - name: Aragor:RightForeArm
+      parentName: Aragor:RightArmRoll
+      position: {x: -0.84979177, y: 0.00000015995845, z: -0.00000085011595}
+      rotation: {x: -0.028862074, y: -0.0021471898, z: 0.07146084, w: 0.99702346}
+      scale: {x: 0.99999905, y: 1.0000019, z: 1.0000008}
+    - name: Aragor:Gun_Aragor
+      parentName: Aragor:RightForeArm
+      position: {x: -2.2731934, y: -0.272902, z: 0.11569047}
+      rotation: {x: -0.6755902, y: -7.7179194e-17, z: 0.7372773, w: -7.796016e-17}
+      scale: {x: 6.5224514, y: 6.5224514, z: 6.5224514}
+    - name: Aragor:Cube 1
+      parentName: Aragor:Gun_Aragor
+      position: {x: 0.0042258613, y: 0.05090609, z: 0.34990165}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:Cube 2
+      parentName: Aragor:Gun_Aragor
+      position: {x: 0.0042258613, y: 0.05090609, z: 0.40841025}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:Cube 3
+      parentName: Aragor:Gun_Aragor
+      position: {x: 0.0028515628, y: 0.022414275, z: 0.09996315}
+      rotation: {x: 0.002952209, y: -0.03476824, z: -0.094515376, w: 0.99491173}
+      scale: {x: -3.6875, y: 2.765625, z: 3.1989062}
+    - name: Aragor:Cube 4
+      parentName: Aragor:Gun_Aragor
+      position: {x: 0.037754647, y: 0.0762857, z: -0.1886267}
+      rotation: {x: -7.9929536e-17, y: -1.7380945e-16, z: -0.20971228, w: 0.9777632}
+      scale: {x: 0.53860617, y: 0.94486266, z: 1.5350298}
+    - name: Aragor:pCylinder9
+      parentName: Aragor:Gun_Aragor
+      position: {x: 0.0015536323, y: 0.02321797, z: 0.17272405}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.89285713, y: 0.89285713, z: 0.89285713}
+    - name: Aragor:pCylinder2
+      parentName: Aragor:pCylinder9
+      position: {x: 0.0002883622, y: 0.03290194, z: 0.018484801}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.98039216, y: 0.98039216, z: 0.98039216}
+    - name: Aragor:pCylinder3
+      parentName: Aragor:pCylinder9
+      position: {x: 0.03006529, y: 0.010287017, z: 0.018404061}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.98039216, y: 0.98039216, z: 0.98039216}
+    - name: Aragor:pCylinder4
+      parentName: Aragor:pCylinder9
+      position: {x: 0.020218035, y: -0.025925606, z: 0.018440992}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.98039216, y: 0.98039216, z: 0.98039216}
+    - name: Aragor:pCylinder5
+      parentName: Aragor:pCylinder9
+      position: {x: -0.020088691, y: -0.02587249, z: 0.018440992}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.98039216, y: 0.98039216, z: 0.98039216}
+    - name: Aragor:pCylinder6
+      parentName: Aragor:pCylinder9
+      position: {x: -0.031976182, y: 0.01123863, z: 0.018440992}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.98039216, y: 0.98039216, z: 0.98039216}
+    - name: Aragor:pCylinder7
+      parentName: Aragor:pCylinder9
+      position: {x: -0, y: -0.00008729643, z: 0.088980146}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:pCylinder8
+      parentName: Aragor:pCylinder9
+      position: {x: -0, y: -0.00011115084, z: 0.11329465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:pCylinder10
+      parentName: Aragor:pCylinder9
+      position: {x: -0.00036891145, y: 0.00038971554, z: 0.018404061}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.98039216, y: 0.98039216, z: 0.98039216}
+    - name: Aragor:RightForeArmRoll
+      parentName: Aragor:RightForeArm
+      position: {x: -0.9340345, y: 0.001829618, z: -0.003001273}
+      rotation: {x: -0.04346699, y: -0.000104697865, z: -0.00017277426, w: 0.9990549}
+      scale: {x: 1.0000011, y: 1.0000005, z: 1.0000005}
+    - name: Aragor:RightHand
+      parentName: Aragor:RightForeArmRoll
+      position: {x: -0.7083443, y: -0.00086534146, z: 0.0011630445}
+      rotation: {x: 0.13066243, y: -0.0058651175, z: 0.9853085, w: 0.10981831}
+      scale: {x: 0.99999946, y: 1.0000002, z: 1}
+    - name: Aragor:RightHandThumb1
+      parentName: Aragor:RightHand
+      position: {x: 0.19840807, y: 0.291451, z: 0.14760189}
+      rotation: {x: 0.30356768, y: 0.11171744, z: 0.3581384, w: 0.875844}
+      scale: {x: 1.0000012, y: 1.0000006, z: 1.0000001}
+    - name: Aragor:RightHandThumb2
+      parentName: Aragor:RightHandThumb1
+      position: {x: 0.12647237, y: 0.00278011, z: -0.00451275}
+      rotation: {x: 0.17490928, y: 0.005019095, z: -0.028781926, w: 0.984151}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000001}
+    - name: Aragor:RightHandThumb3
+      parentName: Aragor:RightHandThumb2
+      position: {x: 0.2976526, y: 0.0057511497, z: 0.0072098686}
+      rotation: {x: 0.21907341, y: -0.03483732, z: 0.0004107586, w: 0.9750862}
+      scale: {x: 1.0000007, y: 1.0000014, z: 1.0000001}
+    - name: Aragor:RightHandThumb4
+      parentName: Aragor:RightHandThumb3
+      position: {x: 0.09998568, y: -0.00011554012, z: 0.0014142998}
+      rotation: {x: 0.000000014112572, y: -0.000000018388087, z: 0.000000015607679,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:RightHandMiddle1
+      parentName: Aragor:RightHand
+      position: {x: 0.5836306, y: 0.0053188275, z: -0.038688637}
+      rotation: {x: 0.69625086, y: -0.019063557, z: 0.008964059, w: 0.71748936}
+      scale: {x: 1.0000005, y: 1.0000007, z: 1.0000007}
+    - name: Aragor:RightHandMiddle2
+      parentName: Aragor:RightHandMiddle1
+      position: {x: 0.23311199, y: 0.000000799693, z: 0.00000014995412}
+      rotation: {x: -0.0000028908241, y: -0.0000012153755, z: 0.00000090245123, w: 1}
+      scale: {x: 1.0000007, y: 1.0000007, z: 1.0000004}
+    - name: Aragor:RightHandMiddle3
+      parentName: Aragor:RightHandMiddle2
+      position: {x: 0.17585526, y: -0.0000001910677, z: 0.000000009804265}
+      rotation: {x: 0.014148054, y: -0.003806178, z: -0.039252132, w: 0.9991219}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000005}
+    - name: Aragor:RightHandMiddle4
+      parentName: Aragor:RightHandMiddle3
+      position: {x: 0.0934383, y: 0.000000039932832, z: 0.000000050040203}
+      rotation: {x: 0.000000006332634, y: -0.000000004032031, z: 0.000000034821547,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:RightHandRing1
+      parentName: Aragor:RightHand
+      position: {x: 0.58929414, y: -0.15693565, z: 0.007571134}
+      rotation: {x: 0.6837905, y: -0.012656397, z: 0.003792813, w: 0.72955877}
+      scale: {x: 0.99999994, y: 1.0000006, z: 1.0000005}
+    - name: Aragor:RightHandRing2
+      parentName: Aragor:RightHandRing1
+      position: {x: 0.19824831, y: 0.00000007973446, z: 0.000000029948914}
+      rotation: {x: -0.000009089704, y: -0.0000009834762, z: -0.0000009732316, w: 1}
+      scale: {x: 1.0000008, y: 1.0000001, z: 1}
+    - name: Aragor:RightHandRing3
+      parentName: Aragor:RightHandRing2
+      position: {x: 0.15903622, y: -0.000000090980656, z: -2.1971829e-10}
+      rotation: {x: 0.010536738, y: -0.002477171, z: -0.04016155, w: 0.9991346}
+      scale: {x: 1.0000004, y: 0.9999997, z: 0.99999976}
+    - name: Aragor:RightHandRing4
+      parentName: Aragor:RightHandRing3
+      position: {x: 0.09993051, y: -0.0000007000725, z: -0.00000006995479}
+      rotation: {x: -8.1200546e-10, y: 0.0000000031997243, z: -0.000000001721494,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:RightHandPinky1
+      parentName: Aragor:RightHand
+      position: {x: 0.5198535, y: -0.3056584, z: 0.09812696}
+      rotation: {x: 0.6512395, y: -0.016627345, z: -0.0030105852, w: 0.75868416}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000005}
+    - name: Aragor:RightHandPinky2
+      parentName: Aragor:RightHandPinky1
+      position: {x: 0.15971819, y: -0.0000011802099, z: 0.00000013994381}
+      rotation: {x: -0.000008940692, y: -0.0000011054793, z: -0.0000072326475, w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000004}
+    - name: Aragor:RightHandPinky3
+      parentName: Aragor:RightHandPinky2
+      position: {x: 0.12550369, y: 0.0000005192427, z: 0.00000001977077}
+      rotation: {x: 0.007889679, y: 0.001087449, z: -0.039102197, w: 0.9992035}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000005}
+    - name: Aragor:RightHandPinky4
+      parentName: Aragor:RightHandPinky3
+      position: {x: 0.09962321, y: -0.00000013007359, z: 0.000000010067673}
+      rotation: {x: -0.0000000019046542, y: -0.0000000061480456, z: -0.000000013379705,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:RightHandIndex1
+      parentName: Aragor:RightHand
+      position: {x: 0.6114073, y: 0.18507835, z: -0.014255031}
+      rotation: {x: 0.71658504, y: -0.006288579, z: -0.0057403576, w: 0.69744784}
+      scale: {x: 1.0000002, y: 1.0000008, z: 1.0000005}
+    - name: Aragor:RightHandIndex2
+      parentName: Aragor:RightHandIndex1
+      position: {x: 0.19152923, y: 0.0000004297326, z: -0.00000006002664}
+      rotation: {x: -0.0017113973, y: 0.0012282643, z: 0.008374907, w: 0.9999627}
+      scale: {x: 1.0000004, y: 1.0000007, z: 1.0000005}
+    - name: Aragor:RightHandIndex3
+      parentName: Aragor:RightHandIndex2
+      position: {x: 0.15405664, y: 0.00000063902957, z: 0.00000006987256}
+      rotation: {x: 0.013518321, y: -0.0061543672, z: -0.038746126, w: 0.9991388}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1.0000005}
+    - name: Aragor:RightHandIndex4
+      parentName: Aragor:RightHandIndex3
+      position: {x: 0.08920026, y: -0.000000010065034, z: 0.00000008003106}
+      rotation: {x: -8.326673e-17, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:Neck
+      parentName: Aragor:Spine2
+      position: {x: -1.2157614, y: -0.000000010000002, z: 3.8657965e-15}
+      rotation: {x: 0.00055947894, y: -0.0069696633, z: -0.07408027, w: 0.99722785}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000006}
+    - name: Aragor:Head
+      parentName: Aragor:Neck
+      position: {x: -0.67855763, y: 0.00000037, z: 2.3980818e-15}
+      rotation: {x: 0.00003313371, y: -0.0000026798798, z: -0.00000038183484, w: 1}
+      scale: {x: 1.0000006, y: 1.0000015, z: 1.0000012}
+    - name: Aragor:Aragor_L_Eye
+      parentName: Aragor:Head
+      position: {x: -0.26964936, y: 0.36349455, z: 0.18547487}
+      rotation: {x: 0.70488095, y: 0.05606148, z: -0.70488095, w: 0.05606148}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:Aragor_R_Eye
+      parentName: Aragor:Head
+      position: {x: -0.26965252, y: 0.3635148, z: -0.21141994}
+      rotation: {x: 0.70488095, y: 0.05606148, z: -0.70488095, w: 0.05606148}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:Head_End
+      parentName: Aragor:Head
+      position: {x: -0.92789197, y: 0.000000049999997, z: 0}
+      rotation: {x: 0, y: -0.0000015097097, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aragor:Mask
+      parentName: Aragor:Head
+      position: {x: -0.3096066, y: 0.04887252, z: 0.104109496}
+      rotation: {x: 0.70488095, y: 0.05606148, z: -0.70488095, w: 0.05606148}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
