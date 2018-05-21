@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D9886E05-BD1C-2FC0-320F-0B3A0A1FE780}</ProjectGuid>
+    <ProjectGuid>{C1B54E25-1007-D251-F0A8-ABA8641028C7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -95,7 +95,7 @@
      <Compile Include="Assets\Cinemachine\PostFX\Editor\PostFXAutoImport.cs" />
      <Compile Include="Assets\Cinemachine\Timeline\Editor\CinemachineShotEditor.cs" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>C:/Users/EQUIPO/Downloads/Escenario/Final mocap/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>E:/GitHub/Final-Mocap_Original/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
@@ -196,7 +196,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{E41080C4-9992-0EE5-FE82-3BEEB72D72CF}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{B24A6EFE-7D3A-3A27-2796-26719E1DFC9A}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

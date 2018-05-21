@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{E41080C4-9992-0EE5-FE82-3BEEB72D72CF}</ProjectGuid>
+    <ProjectGuid>{B24A6EFE-7D3A-3A27-2796-26719E1DFC9A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -112,7 +112,7 @@
      <None Include="Assets\Max\Document\readme.txt" />
      <None Include="Assets\Stone Age Weapons Pack\Readme.txt" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>C:/Users/EQUIPO/Downloads/Escenario/Final mocap/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>E:/GitHub/Final-Mocap_Original/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
