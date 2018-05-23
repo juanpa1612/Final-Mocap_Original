@@ -108,6 +108,7 @@
      <Compile Include="Assets\Island\Scripts\FixedTiling.cs" />
      <Compile Include="Assets\Island\Scripts\MouseLook.cs" />
      <Compile Include="Assets\Island\Scripts\WaterScroller.cs" />
+     <Compile Include="Assets\move.cs" />
      <None Include="Assets\Cinemachine\ReleaseNotes.txt" />
      <None Include="Assets\Max\Document\readme.txt" />
      <None Include="Assets\Stone Age Weapons Pack\Readme.txt" />

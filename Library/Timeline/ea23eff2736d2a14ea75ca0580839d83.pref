@@ -11,13 +11,14 @@ MonoBehaviour:
   m_Script: {fileID: 1890111309, guid: 7668179ede524d6396c8b7d84461ea29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeInFrames: 0
-  timeAreaShownRange: {x: 23.693806, y: 94.37727}
+  timeInFrames: 1
+  timeAreaShownRange: {x: -1.180219, y: 140.21002}
   showAudioWaveform: 1
   trackHeight: 30
   trackScale: 1
   playRangeEnabled: 0
   timeAreaPlayRange: {x: 14.033334, y: 98.23334}
+  windowTime: 85.65
   m_Keys:
   - {fileID: 114481970853920110, guid: ea23eff2736d2a14ea75ca0580839d83, type: 2}
   - {fileID: 114016460346179188, guid: ea23eff2736d2a14ea75ca0580839d83, type: 2}
@@ -42,6 +43,18 @@ MonoBehaviour:
   - {fileID: 114417165573649982, guid: ea23eff2736d2a14ea75ca0580839d83, type: 2}
   - {fileID: 114643376863873002, guid: ea23eff2736d2a14ea75ca0580839d83, type: 2}
   - {fileID: 114203164068327018, guid: ea23eff2736d2a14ea75ca0580839d83, type: 2}
+  - {fileID: 114160930986361766, guid: ea23eff2736d2a14ea75ca0580839d83, type: 2}
+  - {fileID: 114906630108699882, guid: ea23eff2736d2a14ea75ca0580839d83, type: 2}
+  - {fileID: 114504132904192986, guid: ea23eff2736d2a14ea75ca0580839d83, type: 2}
+  - {fileID: 114673299936928668, guid: ea23eff2736d2a14ea75ca0580839d83, type: 2}
+  - {fileID: 114479892002713376, guid: ea23eff2736d2a14ea75ca0580839d83, type: 2}
+  - {fileID: 114111000249085682, guid: ea23eff2736d2a14ea75ca0580839d83, type: 2}
+  - {fileID: 114854993409618334, guid: ea23eff2736d2a14ea75ca0580839d83, type: 2}
+  - {fileID: 114204302595152990, guid: ea23eff2736d2a14ea75ca0580839d83, type: 2}
+  - {fileID: 114815919379952756, guid: ea23eff2736d2a14ea75ca0580839d83, type: 2}
+  - {fileID: 114172401686568894, guid: ea23eff2736d2a14ea75ca0580839d83, type: 2}
+  - {fileID: 114010275035256780, guid: ea23eff2736d2a14ea75ca0580839d83, type: 2}
+  - {fileID: 114900690165217782, guid: ea23eff2736d2a14ea75ca0580839d83, type: 2}
   m_Vals:
   - collapsed: 0
     showInlineCurves: 0
@@ -85,6 +98,42 @@ MonoBehaviour:
   - collapsed: 0
     showInlineCurves: 0
     inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 82
   - collapsed: 0
     showInlineCurves: 0
     inlineAnimationCurveHeight: 100
